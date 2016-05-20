@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="new_game">New</string>
+    <string name="scored">Score:%d</string>
+    <string name="game_over">Game Over!</string>
+    <string name="ok">OK</string>
+</resources>
